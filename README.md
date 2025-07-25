@@ -51,6 +51,7 @@ MailKit
 Clean Architecture
 
 🛠️ Project Highlights
+
 ✅ Authentication: JWT-based login, secure password hashing, and reset password via email.
 
 ✅ Admin Dashboard: Manage articles, patients, bookings, testimonials, and medical cases from structured endpoints.
@@ -64,4 +65,21 @@ Clean Architecture
 ✅ Error Handling: Consistent error response models using a global error handling middleware.
 
 ✅ Modular Design: Easily extendable structure for adding more clinic management features.
+
+Future Enhancements
+Appointment reminders via email or SMS.
+
+Payment integration for online booking.
+
+Advanced admin dashboard for charts and analytics.
+
+User notifications and announcements.
+
+🤝 Contributing
+Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change or add.
+
+🛡️ License
+This project is licensed under the MIT License.
+
+
 
