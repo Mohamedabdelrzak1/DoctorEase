@@ -1,0 +1,6 @@
+@DoctorEase_HostAddress = https://localhost:3000
+
+GET {{DoctorEase_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

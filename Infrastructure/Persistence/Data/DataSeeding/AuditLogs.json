@@ -1,0 +1,82 @@
+[
+  {
+    "EntityName": "Patient",
+    "EntityId": 1,
+    "Action": "Created",
+    "ChangedBy": "0123456789",
+    "ChangedAt": "2024-07-01T09:30:00Z",
+    "Changes": "Created patient: أحمد محمد, 0123456789, ahmed@email.com, القاهرة"
+  },
+  {
+    "EntityName": "Patient",
+    "EntityId": 2,
+    "Action": "Created",
+    "ChangedBy": "0987654321",
+    "ChangedAt": "2024-07-02T10:15:00Z",
+    "Changes": "Created patient: فاطمة علي, 0987654321, fatima@email.com, الإسكندرية"
+  },
+  {
+    "EntityName": "Booking",
+    "EntityId": 1,
+    "Action": "Created",
+    "ChangedBy": "0123456789",
+    "ChangedAt": "2024-07-03T14:45:00Z",
+    "Changes": "Created booking for patient: أحمد محمد - استشارة طبية - 2024-07-15"
+  },
+  {
+    "EntityName": "Booking",
+    "EntityId": 2,
+    "Action": "Created",
+    "ChangedBy": "0987654321",
+    "ChangedAt": "2024-07-04T11:20:00Z",
+    "Changes": "Created booking for patient: فاطمة علي - فحص دوري - 2024-07-16"
+  },
+  {
+    "EntityName": "Patient",
+    "EntityId": 1,
+    "Action": "Updated",
+    "ChangedBy": "0123456789",
+    "ChangedAt": "2024-07-05T08:10:00Z",
+    "Changes": "Updated patient: أحمد محمد - تغيير العنوان إلى: القاهرة الجديدة"
+  },
+  {
+    "EntityName": "Booking",
+    "EntityId": 1,
+    "Action": "Updated",
+    "ChangedBy": "0123456789",
+    "ChangedAt": "2024-07-06T16:30:00Z",
+    "Changes": "Updated booking status: أحمد محمد - من 'معلق' إلى 'مؤكد'"
+  },
+  {
+    "EntityName": "Patient",
+    "EntityId": 3,
+    "Action": "Created",
+    "ChangedBy": "01111222333",
+    "ChangedAt": "2024-07-03T12:00:00Z",
+    "Changes": "Created patient: خالد حسين, 01111222333, khaled@email.com, المنصورة"
+  },
+  {
+    "EntityName": "Booking",
+    "EntityId": 3,
+    "Action": "Created",
+    "ChangedBy": "01111222333",
+    "ChangedAt": "2024-07-04T15:00:00Z",
+    "Changes": "Created booking for patient: خالد حسين - استشارة نفسية - 2024-07-20"
+  },
+  {
+    "EntityName": "Patient",
+    "EntityId": 2,
+    "Action": "Updated",
+    "ChangedBy": "0987654321",
+    "ChangedAt": "2024-07-05T14:00:00Z",
+    "Changes": "Updated patient: فاطمة علي - تعديل البريد الإلكتروني إلى: fatima.ali@email.com"
+  },
+  {
+    "EntityName": "Booking",
+    "EntityId": 2,
+    "Action": "Updated",
+    "ChangedBy": "0987654321",
+    "ChangedAt": "2024-07-06T09:45:00Z",
+    "Changes": "Updated booking time: فاطمة علي - تغيير الموعد إلى 2024-07-18"
+  }
+]
